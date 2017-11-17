@@ -1,6 +1,3 @@
-<br>I still have some work to do to get the formatting on this right
-
-
 | Version       | Date          | Author  | Notes |
 | ------------- |:-------------:|:-------:|------:|
 | 0.1      	| 17-NOV-2017 	| Staid03 |Initial|
@@ -19,12 +16,8 @@
 <br>I there were different reasons for continuing with my use-case
 <br>- mostly due to it fitting better.
 <br>
-<br>
-<br>
 <br>I decided on the freeware from Radeon AMD found here:
 <br>http://www.radeonramdisk.com/software_4.0.php
-<br>
-<br>
 <br>
 <br>It is no longer supported but it will suit me ok.
 <br>It is not for commercial use, I believe.
