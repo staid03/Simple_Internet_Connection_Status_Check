@@ -1,5 +1,5 @@
 | Version       | Date          | Author  | Notes |
-| ------------- |:-------------:|:-------:|------:|
+|:------------- |:-------------:|:-------:|:------|
 | 0.1      	| 17-NOV-2017 	| Staid03 |Initial|
 | 0.2     	| 17-NOV-2017   | Staid03 |Updated script to delete pingfile after 500 run-throughs and kill<br>the ping process running in the background. Using a RAMDisk<br>to prevent unnecessary disk reading/writing|
 
